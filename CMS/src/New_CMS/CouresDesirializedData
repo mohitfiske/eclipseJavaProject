@@ -1,0 +1,8 @@
+Courses [CourseId=1, CourseTitle=SQL, CourseDuration=150, CourseProvider=Sameer, CourseCost=11.0]Courses
+ [CourseId=2, CourseTitle=OOP in Java, CourseDuration=150, CourseProvider=Rahul Sir, CourseCost=21.0]Courses
+  [CourseId=3, CourseTitle=Web Based Java, CourseDuration=60, CourseProvider=Rahul Sir, CourseCost=51.0]
+Courses [CourseId=4, CourseTitle=Snowflake, CourseDuration=200, CourseProvider=Google, CourseCost=80000.0]
+Courses [CourseId=1, CourseTitle=CDAC, CourseDuration=900, CourseProvider=Pune,Board, CourseCost=106000.0]
+Courses [CourseId=1, CourseTitle=CDAC, CourseDuration=900, CourseProvider=Pune,Board, CourseCost=106000.0]
+Courses [CourseId=2, CourseTitle=Snowflake, CourseDuration=200, CourseProvider=Google, CourseCost=80000.0]
+Courses [CourseId=15, CourseTitle=ReactJS, CourseDuration=100, CourseProvider=Udemy, CourseCost=499.99]
